@@ -1,4 +1,6 @@
 package com.rickandmorty.app.view.main
 
-interface IMainView {
+import com.rickandmorty.app.view.base.IBaseView
+
+interface IMainView: IBaseView{
 }
